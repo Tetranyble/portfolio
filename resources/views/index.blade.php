@@ -261,7 +261,7 @@ The application is written in PHP using Laravel framework and the Bootstrap Fram
             <script>
                 $(function () {
 
-/* "use strict";
+"use strict";
 
 // init the validator
 $('#ajax-contact').validator();
@@ -300,7 +300,7 @@ $('#ajax-contact').on('submit', function (e) {
         return false;
     }
 })
-}); */
+});
 
             </script>
 
