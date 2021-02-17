@@ -29,7 +29,7 @@
         <meta property="og:site" content="https://www.ugbanawaji.com"/> <!-- website link -->
         <meta property="og:title" content="Leonard Ugbanawaji Ekenekiso | Ugbanawaji"/> <!-- title shown in the actual shared post -->
         <meta property="og:description" content="Leonard Ugbanawaji Ekenekiso | Ugbanawaji"/> <!-- description shown in the actual shared post -->
-        <meta property="og:image" content="/assets/images/lean.jpg"/> <!-- image link, make sure it's jpg -->
+        <meta property="og:image" content="/images/lean.jpg"/> <!-- image link, make sure it's jpg -->
         <meta property="og:url" content="https://www.ugbanawaji.com"/> <!-- where do you want your post to link to -->
         <meta property="og:type" content="article"/>
 	</head>
