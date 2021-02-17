@@ -11,7 +11,7 @@
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 
         <!-- <meta name="theme-color" content="#4096D2"> -->
-        <link rel="icon" type="image/ico" href="/favicon.ico">
+        <link rel="icon" type="image/x-icon" href="/favicon.ico">
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 
 
@@ -217,6 +217,7 @@ The application is written in PHP using Laravel framework and the Bootstrap Fram
 								<ul class="actions">
 									<li><input type="submit" value="Send Message" /></li>
 								</ul>
+                                <div class="messages alert-success"></div>
 							</form>
 							<ul class="contact">
 								<li class="icon solid fa-home">
