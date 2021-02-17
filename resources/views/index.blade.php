@@ -12,6 +12,7 @@
 
         <!-- <meta name="theme-color" content="#4096D2"> -->
         <link rel="icon" type="image/x-icon" href="/favicon.ico">
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 
 
@@ -260,7 +261,7 @@ The application is written in PHP using Laravel framework and the Bootstrap Fram
             <script>
                 $(function () {
 
-"use strict";
+/* "use strict";
 
 // init the validator
 $('#ajax-contact').validator();
@@ -299,7 +300,7 @@ $('#ajax-contact').on('submit', function (e) {
         return false;
     }
 })
-});
+}); */
 
             </script>
 
